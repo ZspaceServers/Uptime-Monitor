@@ -11,6 +11,8 @@ sites:
     url: https://status.zspaceservers.com
   - name: Panel Website
     url: https://panel.zspaceservers.com
+  - name: Zenlerk Website
+    url: https://zenlerk.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
