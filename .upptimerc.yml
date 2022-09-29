@@ -3,14 +3,14 @@ owner: Zspace Servers
 repo: Uptime-Monitor
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main Website
+    url: https://zspaceservers.com
+  - name: Forums Website
+    url: https://forums.zspaceservers.com
+  - name: Status Website
+    url: https://status.zspaceservers.com
+  - name: Panel Website
+    url: https://panel.zspaceservers.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
